@@ -4,7 +4,6 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 
 import java.util.*;
-import java.util.stream.Collectors;
 
 @AllArgsConstructor
 public class Person {
